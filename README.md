@@ -6,9 +6,13 @@
 
 ## Credits: 
 Lead Programmer: TheRaff 
+
 Audio Engineer: Tsuyushigure5 
+
 Level Designer/Artist: MikatoLee
+
 UI/UX lead designer: Beatrixcdn
+
 UI: Areebia 
 
 Games are uploaded under the [Attribution-NonCommercial-ShareAlike 4.0 Creative Commons license ](https://creativecommons.org/licenses/by-nc-sa/4.0/) 
