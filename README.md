@@ -1,7 +1,6 @@
 # Global GameJam 2021 entry: "Aqua Hero"
 ## Play instructions
-- Head to our itch.io page:
- - https://areebia.itch.io/aqua-hero
+- Head to our itch.io page:https://areebia.itch.io/aqua-hero
 - Follow the instructions on the site to download and play
 - Enjoy!
 
