@@ -1,5 +1,6 @@
 # Global GameJam 2021 entry: "Aqua Hero"
-https://img.itch.zone/aW1hZ2UvOTAxNzcyLzUxMDgyNDQucG5n/original/jufg2g.png![image](https://user-images.githubusercontent.com/38381290/199351774-9afb1a95-4800-4c02-ac6b-afa990154f57.png)
+https://img.itch.zone/aW1hZ2UvOTAxNzcyLzUxMDgyNDQucG5n/original/jufg2g.png![Uploading image.png…]()
+![jufg2g](https://user-images.githubusercontent.com/38381290/199351888-3294e5d3-4bf8-45ee-8361-6ae43d8e4fed.png)
 
 ## Play instructions
 - Head to our itch.io page:https://areebia.itch.io/aqua-hero
